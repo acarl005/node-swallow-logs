@@ -1,0 +1,26 @@
+{
+  "name": "swallow-logs",
+  "version": "1.1.0",
+  "description": "Run isolated procedures for which the log output is discarded.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acarl005/node-swallow-logs.git"
+  },
+  "keywords": [
+    "null",
+    "dev",
+    "log",
+    "console",
+    "swallow"
+  ],
+  "author": "Andrew Carlson <acarl005@g.ucla.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acarl005/node-swallow-logs/issues"
+  },
+  "homepage": "https://github.com/acarl005/node-swallow-logs#readme"
+}
